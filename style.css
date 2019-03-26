@@ -1,0 +1,32 @@
+body{
+  min-width: 150vh;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.kalimat-1 {
+  color: purple;
+}
+
+#judulPertama {
+  color: blue;
+}
+
+div {
+  border: 1px solid red;
+  outline: 5px dotted blue;
+  width: fit-content;
+  height: 50px;
+  margin-bottom: 30px;
+  padding: 50px;
+}
+
+.div1{
+  position :relative;
+}
+
+.div2{
+  position: static;
+}
